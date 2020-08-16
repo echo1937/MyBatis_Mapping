@@ -32,3 +32,8 @@ build/
 
 # Datasource local storage ignored files
 /.ideaDataSources/
+/mvnw
+/mvnw.cmd
+/mybatis.iml
+/mybatis.ipr
+/mybatis.iws
